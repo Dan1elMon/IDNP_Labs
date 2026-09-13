@@ -98,8 +98,9 @@ git push origin nombre-de-la-rama
 ## Integrantes
 
 **Estudiante:**
-Daniel Chura Monroy
-Ronald Garcia Valdivia
+Daniel Chura Monroy  
+Ronald Garcia Valdivia  
+
 **Curso:**
 Introducción al Desarrollo de Nuevas Plataformas
 
